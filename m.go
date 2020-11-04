@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func W(a int) {
+func W(a ...string) {
 	fmt.Println(a)
 }
 
