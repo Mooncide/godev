@@ -1,4 +1,4 @@
-package rtspv2
+package maho
 
 import (
 	"bufio"
